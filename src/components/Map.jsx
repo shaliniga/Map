@@ -41,7 +41,9 @@ const Map = () => {
   };
 
   return (
-    <div className="">
+    <div>
+      {/* Title */}
+      <h1>🌍 Simple Map</h1>
       {/* Search Input & Button */}
       <div className="search">
         <input
